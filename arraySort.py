@@ -11,7 +11,6 @@ def main():
     print(sortArray(testArrayTwo),"\n\n")
     print(sortArray(testArrayThree),"\n\n")
     print(sortArray(testArrayFour),"\n\n")
-    return
 
 def sortArray(arrayToSort):
     newArray = []
